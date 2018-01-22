@@ -1,5 +1,5 @@
-import React from 'react'
-class Hello extends React.Component{
+import React,{Component} from 'react'
+class Hello extends Component{
     render(){
         return 
         (<h1>Hello Robot!</h1>)  
